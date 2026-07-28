@@ -2,7 +2,9 @@
 
 ![Bannière Loutik](https://raw.githubusercontent.com/loutik/design-assets/main/banniere_loutik.png)
 
-~ [Website](https://www.loutik.fr) ~ [Discord](https://discord.loutik.fr) ~ [Instagram](https://www.instagram.com/loutik_fr) ~ [TikTok](https://www.tiktok.com/@loutik_fr) ~ [YouTube](https://www.youtube.com/@loutik_fr)
+<p align="center">
+~ [🌐 Website](https://www.loutik.fr) ~ [📢 Discord](https://discord.loutik.fr) ~ [📷 Instagram](https://www.instagram.com/loutik_fr) ~ [📱 TikTok](https://www.tiktok.com/@loutik_fr) ~ [📹 YouTube](https://www.youtube.com/@loutik_fr) ~
+</p>
 
 ---
 
