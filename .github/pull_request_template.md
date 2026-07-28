@@ -3,7 +3,7 @@
 ![Bannière Loutik](https://raw.githubusercontent.com/loutik/design-assets/main/banniere_loutik.png)
 
 <p align="center">
-~ [🌐 Website](https://www.loutik.fr) ~ [📢 Discord](https://discord.loutik.fr) ~ [📷 Instagram](https://www.instagram.com/loutik_fr) ~ [📱 TikTok](https://www.tiktok.com/@loutik_fr) ~ [📹 YouTube](https://www.youtube.com/@loutik_fr) ~
+~ <a href="https://www.loutik.fr" target="_blank">🌐 Website</a> ~ <a href="https://discord.loutik.fr" target="_blank">📢 Discord</a> ~ <a href="https://www.instagram.com/loutik_fr" target="_blank">📷 Instagram</a>  ~ <a href="https://www.tiktok.com/@loutik_fr" target="_blank">📱 TikTok</a> ~ <a href="https://www.youtube.com/@loutik_fr" target="_blank">📹 YouTube</a> ~
 </p>
 
 ---
